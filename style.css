@@ -1,0 +1,26 @@
+.small{
+    width: 200px;
+    height: 200px;
+    display: inline-block;
+}
+
+.big{
+    width: 600px;
+    height: 200px;
+}
+
+.beige{
+    background-color: beige;
+}
+
+.blue{
+    background-color: blue;
+}
+
+.red{
+    background-color: red;
+}
+
+.green{
+    background-color: green;
+}
